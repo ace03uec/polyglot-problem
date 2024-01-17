@@ -11,5 +11,5 @@ Each language page should have the following sections :
 - Official resources
 - Community resources
 
-# Index [Todo]
+# Index [TODO]
 Add an index here of languages covered.
